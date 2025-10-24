@@ -1,0 +1,25 @@
+# Node
+node_modules/
+.npm/
+.pnpm-store/
+
+# Build outputs
+build/
+dist/
+coverage/
+*.log
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Misc
+*.tsbuildinfo
